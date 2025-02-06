@@ -2,7 +2,7 @@
 
 **📌 Project Overview**
 
-	AtliQ is a rapidly expanding hardware company operating across multiple countries through retail outlets, direct sales, and distributor networks (both online and offline). As part of its growth strategy, AtliQ requires a dedicated data analytics team to ensure data-		driven decision-making and business transparency.
+AtliQ is a rapidly expanding hardware company operating across multiple countries through retail outlets, direct sales, and distributor networks (both online and offline). As part of its growth strategy, AtliQ requires a dedicated data analytics team to ensure data-driven decision-making and business transparency.
 
 This project delivers a comprehensive Power BI dashboard that empowers stakeholders with real-time insights into Finance, Sales, Supply Chain, Marketing, and Executive Management.
 
