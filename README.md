@@ -6,9 +6,9 @@ AtliQ is a rapidly expanding hardware company operating across multiple countrie
 
 This project delivers a comprehensive Power BI dashboard that empowers stakeholders with real-time insights into Finance, Sales, Supply Chain, Marketing, and Executive Management.
 
-🔗 Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZGFjN2UwNTgtZmRlMS00OGY5LTk2NTUtMWM5YTA3MTVmZjFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+🔗 Older Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMzBiNWE5NTgtYWRkYi00MmZlLWE3NmQtMzIzYmJmNzQzMWFkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-   Short link for dashboard: https://surl.li/dbxteg
+   New Live Dashboard: https://surl.li/dbxteg
 
 🔍 Problem Statement
 
